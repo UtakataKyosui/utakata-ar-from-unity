@@ -1,2 +1,2 @@
-# utakata-ar-from-unity-with-ar_foundation
-UnityとARFoundationでずっと作りたかったARアプリを作ります
+# utakata-ar-from-unity
+Unityでずっと作りたかったARアプリを作ります
